@@ -6,8 +6,6 @@ Before running the project, make sure you have:
 - ✅ **MySQL** database access
 - ✅ **Git** installed for version control
 - ✅ **A virtual environment** for dependency management
-- ✅ **Node.js & npm** (for managing frontend assets if needed)
-
 ---
 
 ## 📂 Project Structure
